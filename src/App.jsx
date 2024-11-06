@@ -6,7 +6,7 @@ import Results from "./components/Results.jsx";
 
 function App() {
   const [userInput, setUserInput] = useState({
-    intialInvestment: 1000,
+    initialInvestment: 1000,
     annualInvestment: 1200,
     expectedReturn: 6,
     duration: 10,
