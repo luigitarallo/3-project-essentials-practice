@@ -1,4 +1,4 @@
-# Investment Calulator - React Course by Maximilian Schwarzmüller
+# Investment Calculator - React Course by Maximilian Schwarzmüller
 
 This is the third project built with React, developed while following the Udemy course React - The Complete Guide 2024 (incl. Next.js, Redux), taught by Maximilian Schwarzmüller.
 
